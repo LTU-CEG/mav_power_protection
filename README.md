@@ -5,9 +5,12 @@ scenarios which can damage the downstream system.
 
 Currently the design parameters are:
 
-* Over voltage level: 18V
-* Under voltage level: 5V
+* Over voltage level: 18.7V
+* Under voltage level: 3.9V
 * Inrush current limitation: 500 mA
+
+The output capacitor can be freely chosen in the range of 100 uF or more, but
+an standard electrolytic capacitor is recommended.
 
 ---
 
