@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-EELAYER 26 0
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -274,7 +274,7 @@ U 1 1 5B9AC9BC
 P 2850 2050
 F 0 "J1" H 2770 1825 50  0000 C CNN
 F 1 "Conn_01x01" H 2770 1916 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 2850 2050 50  0001 C CNN
+F 2 "connectors:pad_1.5x2.0mm_castelated" H 2850 2050 50  0001 C CNN
 F 3 "~" H 2850 2050 50  0001 C CNN
 	1    2850 2050
 	-1   0    0    1   
@@ -285,7 +285,7 @@ U 1 1 5B9ACB4B
 P 2850 3000
 F 0 "J3" H 2770 2775 50  0000 C CNN
 F 1 "Conn_01x01" H 2770 2866 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 2850 3000 50  0001 C CNN
+F 2 "connectors:pad_1.5x2.0mm_castelated" H 2850 3000 50  0001 C CNN
 F 3 "~" H 2850 3000 50  0001 C CNN
 	1    2850 3000
 	-1   0    0    1   
@@ -307,7 +307,7 @@ U 1 1 5B9ACCFE
 P 7150 2650
 F 0 "J4" H 7070 2425 50  0000 C CNN
 F 1 "Conn_01x01" H 7070 2516 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 7150 2650 50  0001 C CNN
+F 2 "connectors:pad_1.5x2.0mm_castelated" H 7150 2650 50  0001 C CNN
 F 3 "~" H 7150 2650 50  0001 C CNN
 	1    7150 2650
 	1    0    0    1   
@@ -329,7 +329,7 @@ U 1 1 5B9AE660
 P 7150 2050
 F 0 "J2" H 7070 1825 50  0000 C CNN
 F 1 "Conn_01x01" H 7070 1916 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 7150 2050 50  0001 C CNN
+F 2 "connectors:pad_1.5x2.0mm_castelated" H 7150 2050 50  0001 C CNN
 F 3 "~" H 7150 2050 50  0001 C CNN
 	1    7150 2050
 	1    0    0    1   
