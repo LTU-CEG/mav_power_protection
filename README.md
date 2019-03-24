@@ -1,7 +1,8 @@
 # Over/Under voltage protection with inrush current limitation
 
 A simple module to protect system from over/under voltage and inrush current
-scenarios which can damage the downstream system.
+scenarios which can damage the downstream system. The module's pads have
+castelated vias to make it possible to solder it as a module on another PCB.
 
 Currently the design parameters are:
 
